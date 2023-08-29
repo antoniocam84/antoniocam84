@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá esse é meu perfil, seja bem vindo ao meu perfil! 💙 👋
 
-<!--
-**antoniocam84/antoniocam84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Antonio Camargo
+- Estou estudando na Plataforma [Alura](https://www.alura.com.br/)
+- Estou aprendendo a linguagem Java Script
+- Utlilizo esse espa~p para organização e compartilhar os meus projetos
+  
+## voce pode entrar em contato comigo pelo 📧
 
-Here are some ideas to get you started:
+a.junior10@escola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@antoniocamargo
+
+![](https://media.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif)
