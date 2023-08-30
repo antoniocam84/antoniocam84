@@ -3,7 +3,7 @@
 Meu nome é Antonio Camargo
 - Estou estudando na Plataforma [Alura](https://www.alura.com.br/)
 - Estou aprendendo a linguagem Java Script
-- Utlilizo esse espa~p para organização e compartilhar os meus projetos
+- Utlilizo esse espaço para organização e compartilhar os meus projetos
   
 ## voce pode entrar em contato comigo pelo 📧
 
