@@ -2,13 +2,13 @@
 
 Meu nome é Antonio Camargo
 - Estou estudando na Plataforma [Alura](https://www.alura.com.br/)
-- Estou aprendendo a linguagem Java Script na plataforma [P5js](https://editor.p5js.org/)
+- Estou aprendendo a linguagem de programação na plataforma  [Scratch](https://scratch.mit.edu/)
 - Utilizo esse espaço para organização e compartilhar os meus projetos
-  
+ 
 ## Você pode entrar em contato comigo pelo 📧
 
 a.junior10@escola.pr.gov.br
-3333
+
 
 @antoniocamargo
 
