@@ -15,6 +15,5 @@ a.junior10@escola.pr.gov.br
 
 ![](https://media.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif)
 
-![](https://media.tenor.com/J_1rvj9mL4kAAAAM/tiktok-dog-awkward-dog.gif)
 
 
