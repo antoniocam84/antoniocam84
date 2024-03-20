@@ -15,5 +15,4 @@ a.junior10@escola.pr.gov.br
 
 ![](https://media.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif)
 
-![]{https://media1.tenor.com/m/-P-xeHYEY9QAAAAd/sad-pablo-lonely.gif}
 
