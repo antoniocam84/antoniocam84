@@ -13,6 +13,6 @@ a.junior10@escola.pr.gov.br
 
 @antoniocamargo
 
-![](https://media.tenor.com/EibW8F4VJUkAAAAC/joke-jk.gif)
+![](https://media.tenor.com/h-fQB_FC578AAAAM/shannon-sharpe-shay.gif)
 
 
