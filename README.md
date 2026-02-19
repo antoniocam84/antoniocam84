@@ -5,7 +5,7 @@
 - Estou aprendendo a linguagem de programação na plataforma  [Scratch](https://scratch.mit.edu/)
 - Utilizo esse espaço para organização e compartilhar os meus projetos
  
-## Você pode entrar em contato comigo pelo 📧
+## Você pode entrar em contato comigo pelo 📧 😀
 
 a.junior10@escola.pr.gov.br
 
